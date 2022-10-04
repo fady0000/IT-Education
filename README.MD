@@ -37,12 +37,9 @@ Page Object Model Design Pattern
 4- pull the project 
 
 ## How To Run 
-open Tests Package 
+Open Test Package 
 
 Select E2E Scenario And Run It 
-
-Also, Can Run It From Terminal Using Command Line 
-    `mvn test`
 
 Reporting Run With Command Line 
     `allure serve`
