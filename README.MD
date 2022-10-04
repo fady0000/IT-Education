@@ -2,11 +2,10 @@
  *** 
 ## Table Of Content 
 1. [General info](#general-info)
-2. [Folder Structure](#Folder-Structure)
-3. [Tools and frameworks](#tools-and-frameworks)
-4. [Technologies And Patterns](#technologies-and-patterns)
-5. [Installation](#installation)
-6. [How To Run](#how-to-run)
+2. [Tools and frameworks](#tools-and-frameworks)
+3. [Technologies And Patterns](#technologies-and-patterns)
+4. [Installation](#installation)
+5. [How To Run](#how-to-run)
 
 ## General Info 
 Automated Scenario for Education Learning website
